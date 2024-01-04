@@ -8,6 +8,9 @@ export function ProductList(props: ProductListProps) {
   return (
     <div className={styles['container']}>
       <Title text="Welcome to products list!" />
+      <p>
+        This is a change. <span role='img' aria-label='shaking'>👋</span>
+      </p>
     </div>
   );
 }

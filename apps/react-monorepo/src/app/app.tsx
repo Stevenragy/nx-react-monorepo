@@ -5,7 +5,7 @@ import { OrderList } from '@react-monorepo/orders';
 
 
 function Home() {
-  return <h1>Home</h1>;
+  return <h1>Welcome react-monorepo!</h1>;
 }
 
 export function App() {
