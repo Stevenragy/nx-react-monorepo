@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  place-items: center;
+}
+
+.text {
+  font-size: 72px;
+  background: -webkit-linear-gradient(30deg, #ef6a6a, #4520d9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
